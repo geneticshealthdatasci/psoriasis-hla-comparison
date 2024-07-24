@@ -18,7 +18,7 @@ These results are only the first step in understanding why some people with psor
 
 UK Biobank data cannot be openly shared, but researchers can apply for access.
 
-The presence of psoriasis and comorbid diseases were established from diagnoses self-reported at UKB assessment centres and from linked hospital episode statistics (described in Supplementary Table S4 of the paper). Other non-genetic variables were derived from UK Biobank fields as clearly described in Supplementary Table S2. Genetic principal components were derived from genotyping array data using EIGENSOFT.
+The presence of psoriasis and comorbid diseases were established from diagnoses self-reported at UKB assessment centres and from linked hospital episode statistics (described in Supplementary Table S4 of the paper). Other non-genetic variables were derived from UK Biobank fields as clearly described in Supplementary Table S2. Imputed dosages for HLA-C\*06:02 were obtained from UK Biobank field 22182 and only values precisely equal to 0, 1 or 2 were included; HLA-C\*06:02 positive participants were those carrying either 1 or 2 copies. Genetic principal components were derived from genotyping array data using EIGENSOFT.
 
 All derived variables used as inputs to these scripts have been returned to UK Biobank.
 
