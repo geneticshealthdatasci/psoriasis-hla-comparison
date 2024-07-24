@@ -2,7 +2,7 @@ This repository comprises code to support results derived using UK Biobank appro
 
 Douroudis _et al_, Differences in Clinical Features and Comorbid Burden between HLA-C∗06:02 Carrier Groups in >9,000 People with Psoriasis, _Journal of Investigative Dermatology_ (2022) 142, 1617e1628; doi:10.1016/j.jid.2021.08.446
 
-#### Study lay summary
+### Study lay summary
 
 Psoriasis is a very common skin condition with major impact on health and wellbeing. Unfortunately, some people also develop other health conditions (often termed ‘comorbidities’) such as arthritis and heart disease.
 
@@ -14,7 +14,7 @@ Our study confirmed that people who carry HLA-C\*06:02 are more likely to have p
 
 These results are only the first step in understanding why some people with psoriasis develop comorbidities and some do not. It does however provide an important direction for future research. We need to further investigate the differences between men and women across other genes to understand how they might play a role in development of comorbidities. Testing for HLA-C\*06:02 status alone won’t be powerful enough to identify everyone at risk of comorbidities but might be helpful if combined with other risk factors.
 
-#### Data
+### Data
 
 UK Biobank data cannot be openly shared, but researchers can apply for access.
 
@@ -22,7 +22,7 @@ The presence of psoriasis and comorbid diseases were established from diagnoses 
 
 All derived variables used as inputs to these scripts have been returned to UK Biobank.
 
-#### Code
+### Code
 
 | Script                                                           | Description                                                                                                     |
 | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
